@@ -1,4 +1,4 @@
-@alioke@pens.ac.id
+alioke@pens.ac.id
 # Jaringan Komputer 
 # NAMA   : SUFA DELILA
 # NRP    : 5323600053
